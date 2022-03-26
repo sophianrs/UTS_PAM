@@ -119,6 +119,7 @@ const styles = StyleSheet.create({
         height: 40,
         alignItems :'center'
     },
+    
   });
   
   export default Daftar;
