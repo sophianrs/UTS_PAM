@@ -1,0 +1,50 @@
+[   
+    {
+        "id" : "1",
+        "pelabuhan_awal" :"Bakauheni",
+        "pelabuhan_tujuan" : "Merak",
+        "kelas_layanan" : "Ekpress",
+        "tanggal_masuk" : "Kamis, 17 Maret 2022",
+        "jam_masuk" : "15.30 WIB"
+    },
+    {
+        "id" : "2",
+        "pelabuhan_awal" :"Merak",
+        "pelabuhan_tujuan" : "Bakauheni",
+        "kelas_layanan" : "Bisnis",
+        "tanggal_masuk" : "Jumat, 18 Maret 2022",
+        "jam_masuk" : "12.30 WIB"
+    },
+    {
+        "id" : "3",
+        "pelabuhan_awal" :"Tanjung Api-Api",
+        "pelabuhan_tujuan" : "Tanjung Kalian",
+        "kelas_layanan" : "Ekpress",
+        "tanggal_masuk" : "Sabtu, 19 Maret 2022",
+        "jam_masuk" : "12.30 WIB"
+    },
+    {
+        "id" : "4",
+        "pelabuhan_awal" :"Tanjung Kalian",
+        "pelabuhan_tujuan" : "Tanjung Api-Api",
+        "kelas_layanan" : "Ekonomi",
+        "tanggal_masuk" : "Minggu, 20 Maret 2022",
+        "jam_masuk" : "12.30 WIB"
+    },
+    {
+        "id" : "5",
+        "pelabuhan_awal" : "Balikpapan",
+        "pelabuhan_tujuan" : "Surabaya",
+        "kelas_layanan" : "Ekpress",
+        "tanggal_masuk" : "Senin, 21 Maret 2022",
+        "jam_masuk" : "20.30 WIB"
+    },
+    {
+        "id" : "6",
+        "pelabuhan_awal" :"Surabaya",
+        "pelabuhan_tujuan" : "Balikpapan",
+        "kelas_layanan" : "Ekonomi",
+        "tanggal_masuk" : "Selasa, 22 Maret 2022",
+        "jam_masuk" : "20.30 WIB"
+    }
+]
